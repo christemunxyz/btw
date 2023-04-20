@@ -4,6 +4,6 @@
 
 main() {
 
-   printf("btw, i use arch \n\n");
+   printf("btw, i use arch \n");
 
 }
